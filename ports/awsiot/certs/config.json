@@ -1,0 +1,10 @@
+{
+  "host": "aczelvq5m2cch-ats.iot.us-west-2.amazonaws.com",
+  "port": 8883,
+  "clientId": "Armadillo-IoT",
+  "thingName": "Armadillo-IoT",
+  "caCert": "./certs/<ROOT CERTIFICATE>",
+  "clientCert": "./certs/Armadillo-IoT.cert.pem",
+  "privateKey": "./certs/Armadillo-IoT.cert.pem",
+  "topic": "aws/things/Armadillo-IoT/shadow/update"
+}
